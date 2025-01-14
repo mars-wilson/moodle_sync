@@ -1,0 +1,5 @@
+keyring~=25.2.1
+pyodbc~=5.1.0
+setuptools~=68.2.0
+requests~=2.32.3
+PyMySQL~=1.1.1
